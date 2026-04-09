@@ -6,32 +6,55 @@ Three powerful factions control different parts of the city. Each has their own 
 
 ## The Three Factions
 
+---
+
 ### Trumpet Family
+
+<figure><img src=".gitbook/assets/trumpet_family.png" alt="Trumpet Family" width="200"><figcaption></figcaption></figure>
+
+The Trumpet Family is an old-school crime syndicate that rules through brute force and intimidation. Their boss is a loud, gold-obsessed kingpin who demands absolute loyalty. They drive the fastest faction vehicles in the city and their guards are known for shooting first and asking questions never.
 
 | | |
 |---|---|
 | **Color** | Gold / Yellow |
-| **Vehicle** | Trumpet Car (gold, fast) |
-| **HQ Location** | Procedurally placed in the city |
+| **Vehicle** | Trumpet Car — gold, fast, and flashy |
+| **HQ** | Fortified compound with gold-themed decor |
 | **Specialty** | Speed and aggression |
+| **Mission** | Car Bomb — blow up The Satoshi Order's mining farm |
+
+---
 
 ### Pepe Syndicate
+
+<figure><img src=".gitbook/assets/pepe_syndicate.png" alt="Pepe Syndicate" width="200"><figcaption></figcaption></figure>
+
+The Pepe Syndicate is a mysterious underground network of meme lords turned crime bosses. They operate in the shadows, pulling strings behind the scenes. Nobody knows who their true leader is — only that crossing them is a fatal mistake. Their green vehicles blend into the city until it's too late.
 
 | | |
 |---|---|
 | **Color** | Green |
-| **Vehicle** | Pepe Car (green) |
-| **HQ Location** | Procedurally placed in the city |
+| **Vehicle** | Pepe Car — green and inconspicuous |
+| **HQ** | Hidden compound with green markings |
 | **Specialty** | Stealth and cunning |
+| **Mission** | Coming soon |
+
+---
 
 ### The Satoshi Order
+
+<figure><img src=".gitbook/assets/satoshi_order.png" alt="The Satoshi Order" width="200"><figcaption></figcaption></figure>
+
+The Satoshi Order is a tech-savvy faction that controls the city's digital infrastructure. They run mining farms, hack police databases, and believe that code is the ultimate power. Their members are hooded figures who speak in cryptographic riddles and fight with calculated precision.
 
 | | |
 |---|---|
 | **Color** | Blue |
-| **Vehicle** | Satoshi Car (blue) |
-| **HQ Location** | Procedurally placed in the city |
+| **Vehicle** | Satoshi Car — blue and high-tech |
+| **HQ** | Fortified compound near their mining operations |
 | **Specialty** | Technology and mining |
+| **Mission** | Steal the Limo — steal the Trumpet Family's golden limo and sink it |
+
+---
 
 ## Respect System
 
