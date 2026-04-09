@@ -8,7 +8,7 @@ $PTA2 is the native token of PTA2, built on the Solana blockchain. It bridges th
 
 ### Exchange Rate
 
-**1 $PTA2 = 100 in-game cash**
+**1 $PTA2 = 1 in-game cash**
 
 ### Buy Cash (Deposit)
 
@@ -46,10 +46,6 @@ To use $PTA2 features, you need a **Phantom wallet** browser extension:
 3. Approve the connection in Phantom
 4. Your wallet is now linked — you'll see the $PTA2 button in-game
 
-## Death Cost
-
-When you die with a connected wallet, you lose **10 $PTA2** from your in-game balance. Play as a guest to avoid this penalty.
-
 ## Earning $PTA2
 
 All in-game cash can be converted to $PTA2. Ways to earn cash:
@@ -66,4 +62,7 @@ All in-game cash can be converted to $PTA2. Ways to earn cash:
 |----------|-------|
 | Name | $PTA2 |
 | Network | Solana |
+| Total Supply | 1,000,000,000 (fixed) |
+| Circulating Supply | 100% from day one |
+| Launch | Fair launch on Pump.fun |
 | Decimals | 9 |

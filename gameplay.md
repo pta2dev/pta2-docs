@@ -45,7 +45,7 @@ Committing crimes (shooting, stealing cars, killing NPCs) increases your crime p
 
 ### Death & Respawn
 
-When you die, you lose your weapons and respawn at a random location after 3 seconds. If your wallet is connected, dying costs 10 $PTA2 tokens.
+When you die, you lose your weapons and respawn at a random location after 3 seconds.
 
 ## Economy
 
@@ -59,7 +59,7 @@ Money can be spent at:
 - **Car Dealership** — Buy vehicles ($400 - $6,000)
 - **Ammunation** — Buy weapons and ammo ($80 - $1,500)
 - **Casino** — Gamble at Slots, Roulette, or Blackjack
-- **$PTA2 Swap** — Convert in-game cash to $PTA2 tokens
+- **$PTA2 Swap** — Convert in-game cash to $PTA2 tokens (1:1 ratio)
 
 ## Multiplayer
 
