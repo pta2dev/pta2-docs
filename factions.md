@@ -20,7 +20,6 @@ The Trumpet Family is an old-school crime syndicate that rules through brute for
 | **Vehicle** | Trumpet Car — gold, fast, and flashy |
 | **HQ** | Fortified compound with gold-themed decor |
 | **Specialty** | Speed and aggression |
-| **Mission** | Car Bomb — blow up The Satoshi Order's mining farm |
 
 ---
 
@@ -36,7 +35,6 @@ The Pepe Syndicate is a mysterious underground network of meme lords turned crim
 | **Vehicle** | Pepe Car — green and inconspicuous |
 | **HQ** | Hidden compound with green markings |
 | **Specialty** | Stealth and cunning |
-| **Mission** | Coming soon |
 
 ---
 
@@ -52,7 +50,6 @@ The Satoshi Order is a tech-savvy faction that controls the city's digital infra
 | **Vehicle** | Satoshi Car — blue and high-tech |
 | **HQ** | Fortified compound near their mining operations |
 | **Specialty** | Technology and mining |
-| **Mission** | Steal the Limo — steal the Trumpet Family's golden limo and sink it |
 
 ---
 
