@@ -1,4 +1,4 @@
-# Welcome to PTA2 - Pump Theft Auto 2
+# Pump Theft Auto 2 Docs
 
 **PTA2** is a top-down multiplayer browser game inspired by the classic GTA2, set in a crypto-themed open world. Rob cars, complete faction missions, gamble at the casino, and earn $PTA2 tokens — all from your browser.
 
