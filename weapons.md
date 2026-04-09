@@ -2,7 +2,7 @@
 
 ## Overview
 
-There are 5 weapon types in PTA2. You start with your fists and can acquire other weapons by picking them up from the ground or purchasing them at Ammunation.
+There are 5 weapon types in Pump Theft Auto 2. You start with your fists and can acquire other weapons by picking them up from the ground or purchasing them at Ammunation.
 
 ## Weapon Stats
 

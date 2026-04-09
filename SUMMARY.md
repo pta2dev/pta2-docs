@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎮 Welcome to PTA2](README.md)
+* [🎮 Welcome to Pump Theft Auto 2](README.md)
 * [🕹️ Gameplay](gameplay.md)
 * [⌨️ Controls](controls.md)
 * [🚗 Vehicles](vehicles.md)

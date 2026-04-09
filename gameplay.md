@@ -2,7 +2,7 @@
 
 ## Overview
 
-PTA2 is a real-time multiplayer top-down action game. You spawn in a procedurally generated city and are free to explore, steal vehicles, fight NPCs and other players, complete missions, and earn money.
+Pump Theft Auto 2 is a real-time multiplayer top-down action game. You spawn in a procedurally generated city and are free to explore, steal vehicles, fight NPCs and other players, complete missions, and earn money.
 
 ## Getting Started
 

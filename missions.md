@@ -2,7 +2,7 @@
 
 ## Faction Missions
 
-Faction missions are the main story-driven content in PTA2. Visit a faction's phone booth at their HQ to receive assignments.
+Faction missions are the main story-driven content in Pump Theft Auto 2. Visit a faction's phone booth at their HQ to receive assignments.
 
 ### The Satoshi Order: "Steal the Limo"
 

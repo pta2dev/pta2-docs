@@ -42,7 +42,7 @@ Convert your in-game earnings back to $PTA2 tokens.
 To use $PTA2 features, you need a **Phantom wallet** browser extension:
 
 1. Install [Phantom](https://phantom.app) in your browser
-2. On the PTA2 main menu, click **CONNECT PHANTOM**
+2. On the Pump Theft Auto 2 main menu, click **CONNECT PHANTOM**
 3. Approve the connection in Phantom
 4. Your wallet is now linked — you'll see the $PTA2 button in-game
 

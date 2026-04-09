@@ -2,7 +2,7 @@
 
 ## Overview
 
-There are 23 vehicle types in PTA2. Vehicles can be stolen from the streets, purchased at the Car Dealership, or found parked around the city. Each vehicle has unique stats that affect speed, acceleration, handling, and durability.
+There are 23 vehicle types in Pump Theft Auto 2. Vehicles can be stolen from the streets, purchased at the Car Dealership, or found parked around the city. Each vehicle has unique stats that affect speed, acceleration, handling, and durability.
 
 ## Civilian Vehicles
 

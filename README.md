@@ -1,10 +1,10 @@
 # Pump Theft Auto 2 Guide
 
-**PTA2** is a top-down multiplayer browser game inspired by the classic GTA2, set in a crypto-themed open world. Rob cars, complete faction missions, gamble at the casino, and earn $PTA2 tokens — all from your browser.
+**Pump Theft Auto 2** is a top-down multiplayer browser game inspired by the classic GTA2, set in a crypto-themed open world. Rob cars, complete faction missions, gamble at the casino, and earn $PTA2 tokens — all from your browser.
 
-## What is PTA2?
+## What is Pump Theft Auto 2?
 
-PTA2 drops you into a procedurally generated city where rival factions fight for control. You can steal vehicles, equip weapons, take on missions for the three powerful gangs, or just cause chaos across the map. The game features real-time multiplayer, a full economy powered by the $PTA2 token on Solana, and a retro aesthetic that pays homage to the top-down GTA era.
+Pump Theft Auto 2 drops you into a procedurally generated city where rival factions fight for control. You can steal vehicles, equip weapons, take on missions for the three powerful gangs, or just cause chaos across the map. The game features real-time multiplayer, a full economy powered by the $PTA2 token on Solana, and a retro aesthetic that pays homage to the top-down GTA era.
 
 ## Key Features
 
