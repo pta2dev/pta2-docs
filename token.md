@@ -33,8 +33,8 @@ Convert your in-game earnings back to $PTA2 tokens.
 
 | Parameter | Value |
 |-----------|-------|
-| Minimum swap | 0.01 $PTA2 |
-| Maximum swap | 10,000 $PTA2 |
+| Minimum swap | 1,000 $PTA2 |
+| Maximum swap | 100,000 $PTA2 |
 | Cooldown between swaps | 30 seconds |
 
 ## Wallet Connection
