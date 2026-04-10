@@ -56,6 +56,18 @@ All in-game cash can be converted to $PTA2. Ways to earn cash:
 - Win at the casino (Slots, Roulette, Blackjack)
 - Loot cash drops from defeated NPCs
 
+## Tokenomics
+
+| Allocation | Share | Amount | Purpose |
+|------------|-------|--------|---------|
+| Public (Fair Launch) | 85% | 850,000,000 | Available on Pump.fun from day one |
+| Developer | 10% | 100,000,000 | Project development and maintenance |
+| Treasury | 5% | 50,000,000 | In-game token-to-cash swaps and liquidity |
+
+- **Total Supply**: 1,000,000,000 $PTA2 (fixed, no minting)
+- **Circulating Supply**: 100% from day one — all tokens are unlocked at launch
+- The **Treasury** wallet is used exclusively to fund the in-game swap system, allowing players to exchange $PTA2 for in-game cash and vice versa
+
 ## Token Details
 
 | Property | Value |
