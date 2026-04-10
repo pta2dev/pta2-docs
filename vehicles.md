@@ -40,7 +40,7 @@ Each faction has their own exclusive vehicle type parked near their HQ.
 
 | Vehicle | Faction | Top Speed | Acceleration | Handling | Health |
 |---------|---------|-----------|--------------|----------|--------|
-| Trumpet Car | Trumpet Family | 300 | 160 | 3.5 | 110 |
+| T-Wagon | Trumpet Family | 300 | 160 | 3.5 | 110 |
 | Pepe Car | Pepe Syndicate | 270 | 140 | 3.2 | 100 |
 | Satoshi Car | The Satoshi Order | 280 | 150 | 3.3 | 100 |
 

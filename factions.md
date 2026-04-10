@@ -17,7 +17,7 @@ The Trumpet Family is an old-school crime syndicate that rules through brute for
 | | |
 |---|---|
 | **Color** | Gold / Yellow |
-| **Vehicle** | Trumpet Car — gold, fast, and flashy |
+| **Vehicle** | T-Wagon — gold, fast, and flashy |
 | **HQ** | Fortified compound with gold-themed decor |
 | **Specialty** | Speed and aggression |
 
