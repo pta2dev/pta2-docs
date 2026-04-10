@@ -9,3 +9,4 @@
 * [📋 Missions](missions.md)
 * [🏙️ Locations](locations.md)
 * [💰 $PTA2 Token](token.md)
+* [🗺️ Roadmap](roadmap.md)
