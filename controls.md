@@ -38,6 +38,7 @@
 | F | Interact (buildings, phone booths, shops) |
 | E | Enter / Exit vehicle |
 | B | Detonate bomb (faction mission) |
+| G | Fart (on foot only) |
 
 ## UI
 
