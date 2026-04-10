@@ -19,11 +19,11 @@ Pump Theft Auto 2 drops you into a procedurally generated city where rival facti
 
 ## Quick Start
 
-1. Go to [pta2.pages.dev](https://pta2.pages.dev)
+1. Go to [pta2.com](https://pta2.com)
 2. Connect your Phantom wallet or play as a guest
 3. Choose your character (Marco or Sofia)
 4. Enter the city and start exploring
 
 ## Links
 
-- [Play Now](https://pta2.pages.dev)
+- [Play Now](https://pta2.com)
