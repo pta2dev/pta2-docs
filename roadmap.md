@@ -47,8 +47,10 @@ Pump Theft Auto 2 is under active development. Below is a summary of everything 
 
 ## In Progress
 
-- :hourglass\_flowing\_sand: Pepe Syndicate faction mission
+- :hourglass\_flowing\_sand: New faction missions for all three gangs
 - :hourglass\_flowing\_sand: Player leveling system
+- :hourglass\_flowing\_sand: New playable characters
+- :hourglass\_flowing\_sand: Known bug fixes
 - :hourglass\_flowing\_sand: Mobile UI optimization
 
 ## Planned
