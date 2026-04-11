@@ -7,7 +7,7 @@ Stay connected with the Pump Theft Auto 2 community. Follow us for updates, anno
 | Platform | Link |
 |----------|------|
 | X (Twitter) | [https://x.com/pta2\_com](https://x.com/pta2_com) |
-| Telegram | [https://t.me/pta2](https://t.me/pta2) |
+| Telegram | [https://t.me/pta2\_com](https://t.me/pta2_com) |
 
 ## Stay Updated
 
