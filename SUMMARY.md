@@ -10,3 +10,4 @@
 * [🏙️ Locations](locations.md)
 * [💰 $PTA2 Token](token.md)
 * [🗺️ Roadmap](roadmap.md)
+* [👤 Credits](credits.md)
