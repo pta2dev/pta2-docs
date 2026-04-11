@@ -61,6 +61,18 @@ Money can be spent at:
 - **Casino** — Gamble at Slots, Roulette, or Blackjack
 - **$PTA2 Swap** — Convert in-game cash to $PTA2 tokens (1:1 ratio)
 
+## Save Progress
+
+Players who connect with a **Phantom wallet** have their progress saved permanently between sessions. The following data is preserved:
+
+- Cash balance
+- Respect level with each faction
+- Weapons and ammo inventory
+- Completed missions
+- Character name and skin
+
+Guest players do **not** have their progress saved — everything resets when they disconnect.
+
 ## Multiplayer
 
 All players share the same city in real-time. You can see other players walking and driving, chat with them using the in-game chat, and engage in PvP combat. The scoreboard (**P** key) shows all connected players.
