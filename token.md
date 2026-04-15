@@ -64,11 +64,11 @@ All in-game cash can be converted to $PTA2. Ways to earn cash:
 
 ## Tokenomics
 
-| Allocation | Share | Amount | Purpose |
-|------------|-------|--------|---------|
-| Public (Fair Launch) | 85% | 850,000,000 | Available on Pump.fun from day one |
-| Developer | 10% | 100,000,000 | Project development and maintenance |
-| Treasury | 5% | 50,000,000 | In-game token-to-cash swaps and liquidity |
+| Allocation | Share | Amount | Purpose | Wallet |
+|------------|-------|--------|---------|--------|
+| Public (Fair Launch) | 85% | 850,000,000 | Available on Pump.fun from day one | — |
+| Developer | 10% | 100,000,000 | Project development and maintenance | — |
+| Treasury | 5% | 50,000,000 | In-game token-to-cash swaps and liquidity | [Solscan](https://solscan.io/account/DtwXGTEimdSupTurpGTCmVami1xMpyBLEfTr6Lb5BnWd) |
 
 - **Total Supply**: 1,000,000,000 $PTA2 (fixed, no minting)
 - **Circulating Supply**: 100% from day one — all tokens are unlocked at launch
@@ -84,4 +84,3 @@ All in-game cash can be converted to $PTA2. Ways to earn cash:
 | Circulating Supply | 100% from day one |
 | Launch | Fair launch on Pump.fun |
 | Decimals | 6 |
-| Treasury Wallet | `DtwXGTEimdSupTurpGTCmVami1xMpyBLEfTr6Lb5BnWd` |
