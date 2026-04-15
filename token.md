@@ -12,12 +12,16 @@ $PTA2 is the native token of Pump Theft Auto 2, built on the Solana blockchain. 
 
 **1 $PTA2 = 1 in-game cash**
 
+### Opening the Swap Panel
+
+The **⇄ SWAP** button sits in the top-right corner of the HUD, immediately to the right of your cash balance. It is visible to everyone — guests will be prompted to connect their Phantom wallet when they try to swap.
+
 ### Buy Cash (Deposit)
 
 Send $PTA2 tokens from your Phantom wallet to the game treasury and receive in-game cash instantly.
 
-1. Click the **$PTA2** button in the top-left of the HUD
-2. Select **Buy Cash** mode
+1. Click the **⇄ SWAP** button in the top-right of the HUD
+2. Select the **$PTA2 → CASH** tab
 3. Enter the amount of $PTA2 to spend
 4. Confirm the transaction in your Phantom wallet
 5. In-game cash is credited immediately after on-chain verification
@@ -26,8 +30,8 @@ Send $PTA2 tokens from your Phantom wallet to the game treasury and receive in-g
 
 Convert your in-game earnings back to $PTA2 tokens.
 
-1. Click the **$PTA2** button in the top-left of the HUD
-2. Select **Cash Out** mode
+1. Click the **⇄ SWAP** button in the top-right of the HUD
+2. Select the **CASH → $PTA2** tab
 3. Enter the amount of in-game cash to convert
 4. The equivalent $PTA2 is sent to your connected wallet
 
@@ -46,7 +50,7 @@ To use $PTA2 features, you need a **Phantom wallet** browser extension:
 1. Install [Phantom](https://phantom.app) in your browser
 2. On the Pump Theft Auto 2 main menu, click **CONNECT PHANTOM**
 3. Approve the connection in Phantom
-4. Your wallet is now linked — you'll see the $PTA2 button in-game
+4. Your wallet is now linked and you can use the **⇄ SWAP** button to deposit or cash out
 
 ## Earning $PTA2
 
@@ -79,4 +83,5 @@ All in-game cash can be converted to $PTA2. Ways to earn cash:
 | Total Supply | 1,000,000,000 (fixed) |
 | Circulating Supply | 100% from day one |
 | Launch | Fair launch on Pump.fun |
-| Decimals | 9 |
+| Decimals | 6 |
+| Treasury Wallet | `DtwXGTEimdSupTurpGTCmVami1xMpyBLEfTr6Lb5BnWd` |
