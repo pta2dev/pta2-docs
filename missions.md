@@ -74,10 +74,10 @@ Glowing skull pickups appear randomly around the city. Walking over one starts a
 Steal or enter a taxi (found at the Taxi Station) to start taxi jobs.
 
 **How it works:**
-1. Enter a taxi vehicle
-2. A passenger pickup location appears on the minimap
+1. Enter a taxi vehicle and press `F` to go ON DUTY
+2. A yellow marker appears on the minimap showing where the passenger is waiting
 3. Drive to the pickup point
-4. Deliver the passenger to their destination
-5. Earn a fare based on distance
+4. A new yellow marker appears showing the destination — drive there to drop off the passenger
+5. Earn a fare based on distance, with bonuses for speed and clean driving
 
 Taxi jobs provide steady income without the risks of faction warfare.
