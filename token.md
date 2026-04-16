@@ -35,6 +35,8 @@ Convert your in-game earnings back to $PTA2 tokens.
 3. Enter the amount of in-game cash to convert
 4. The equivalent $PTA2 is sent to your connected wallet
 
+> **Holder requirement:** to cash out, your wallet must hold at least **100,000 $PTA2** at the time of the swap. This ensures only players invested in the project can convert their in-game earnings to tokens, protecting the treasury and long-term holders from free-farm dumps. There is no holder requirement to buy in-game cash — anyone can send $PTA2 in.
+
 ### Limits
 
 | Parameter | Value |
@@ -42,6 +44,7 @@ Convert your in-game earnings back to $PTA2 tokens.
 | Minimum swap | 1,000 $PTA2 |
 | Maximum swap | 100,000 $PTA2 |
 | Cooldown between swaps | 30 seconds |
+| Cashout holder minimum | 100,000 $PTA2 held in wallet |
 
 ## Wallet Connection
 
