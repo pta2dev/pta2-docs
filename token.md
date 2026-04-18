@@ -6,6 +6,14 @@
 
 $PTA2 is the native token of Pump Theft Auto 2, built on the Solana blockchain. It bridges the in-game economy with real crypto, allowing players to earn, trade, and cash out.
 
+## Contract Address
+
+```
+Hn5npRiNxasvCuit1THopNfLDjSWLofndeaFbPxQpump
+```
+
+[View on Solscan](https://solscan.io/token/Hn5npRiNxasvCuit1THopNfLDjSWLofndeaFbPxQpump) · [Buy on Pump.fun](https://pump.fun/coin/Hn5npRiNxasvCuit1THopNfLDjSWLofndeaFbPxQpump)
+
 ## How It Works
 
 ### Exchange Rate
